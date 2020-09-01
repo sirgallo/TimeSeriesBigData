@@ -2,9 +2,9 @@
 ## A generic approach meant to demonstrate the basics of time series analysis, while also creating reusable code
 
 ### Prerequisites Installed on Host Machine:
-    - PySpark
+- PySpark
 
 ### To Run:
-    - clone this git repository
-    - navigate to the root of the cloned repository
-    - run **spark-submit TSTest.py**
+- clone this git repository
+- navigate to the root of the cloned repository
+- run **spark-submit TSTest.py**
